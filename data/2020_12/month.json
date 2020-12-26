@@ -1,0 +1,16 @@
+{
+    "Do the thing Zhu Li": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "🧘 Yoga": {
+                "type": "Task",
+                "isComplete": true
+            },
+            "💧 Finish glass of water": {
+                "type": "Task",
+                "isComplete": true
+            }
+        }
+    }
+}
