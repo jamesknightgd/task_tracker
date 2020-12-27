@@ -1,0 +1,247 @@
+{
+    "🛒 Grocery Shopping": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "🛒 6 days & nights": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "🤗 Mental health podcast": {
+                "type": "Task",
+                "isComplete": false
+            }
+        }
+    },
+    "🧼 Washing": {
+        "type": "Task",
+        "isComplete": false
+    },
+    "🧽 Deep Clean": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Air Fryer": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "Shower, using bleach": {
+                "type": "Task",
+                "isComplete": false
+            }
+        }
+    },
+    "☎️ Call Family": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Mum": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "Dad": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "Alex": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "Dylan": {
+                "type": "Task",
+                "isComplete": false
+            }
+        }
+    },
+    "💗 Industry Sync: Context": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Gamasutra": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://gamasutra.com/"
+            },
+            "Games Industry Biz": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://www.gamesindustry.biz/"
+            }
+        }
+    },
+    "💗 Industry Sync: Devlogs": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Youtube": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://www.youtube.com/feed/subscriptions"
+            }
+        }
+    },
+    "💗 Industry Sync: Unity": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Blog": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://blogs.unity3d.com/"
+            },
+            "Whats New": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://unity3d.com/unity/whats-new"
+            }
+        }
+    },
+    "💗 Industry Sync: UE4": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Blog": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://www.unrealengine.com/en-US/feed"
+            }
+        }
+    },
+    "💗 Industry Sync: Godot": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "News": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://godotengine.org/news"
+            },
+            "Devlog": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://godotengine.org/devblog"
+            }
+        }
+    },
+    "💗 Industry Sync: Spatial OS": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Blog": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://improbable.io/blog"
+            }
+        }
+    },
+    "💗 Industry Sync: General": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "AWS Game Tech": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://aws.amazon.com/blogs/gametech/"
+            },
+            "Lumberyard": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://aws.amazon.com/blogs/gametech/category/game-development/amazon-lumberyard/"
+            },
+            "Crytek News": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://www.crytek.com/news"
+            },
+            "Phaser News": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://phaser.io/news"
+            },
+            "Our Machinery": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://ourmachinery.com/post/"
+            }
+        }
+    },
+    "💗 Industry Sync: Game Trends": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Steam": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://store.steampowered.com/stats/Steam-Game-and-Player-Statistics?l=english"
+            },
+            "Android: Top Selling": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://play.google.com/store/apps/collection/cluster?clp=0g4cChoKFHRvcHNlbGxpbmdfcGFpZF9HQU1FEAcYAw%3D%3D:S:ANO1ljLtt38&gsr=Ch_SDhwKGgoUdG9wc2VsbGluZ19wYWlkX0dBTUUQBxgD:S:ANO1ljJCqyI"
+            },
+            "Android: Top Grossing": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://play.google.com/store/apps/collection/cluster?clp=0g4YChYKEHRvcGdyb3NzaW5nX0dBTUUQBxgD:S:ANO1ljLhYwQ&gsr=ChvSDhgKFgoQdG9wZ3Jvc3NpbmdfR0FNRRAHGAM%3D:S:ANO1ljIKta8"
+            },
+            "Android: Top Games": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://play.google.com/store/apps/collection/cluster?clp=0g4cChoKFHRvcHNlbGxpbmdfZnJlZV9HQU1FEAcYAw%3D%3D:S:ANO1ljJ_Y5U&gsr=Ch_SDhwKGgoUdG9wc2VsbGluZ19mcmVlX0dBTUUQBxgD:S:ANO1ljL4b8c"
+            },
+            "Twitch": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://www.twitch.tv/"
+            }
+        }
+    },
+    "💗 Dependency Sync: WASM": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "WASM Website": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://webassembly.org/docs/future-features/"
+            },
+            "GitHub Proposals": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://github.com/WebAssembly/proposals"
+            },
+            "Roadmap": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://webassembly.org/roadmap/"
+            },
+            "Mozilla Hacks": {
+                "type": "Task",
+                "isComplete": false,
+                "url": "https://hacks.mozilla.org/category/webassembly/"
+            }
+        }
+    },
+    "🎧 Download Podcasts": {
+        "type": "Tasks",
+        "time": null,
+        "tasks": {
+            "Subscriptions": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "Topic: WASM": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "Topic: Game Development": {
+                "type": "Task",
+                "isComplete": false
+            },
+            "Topic: Game Engine": {
+                "type": "Task",
+                "isComplete": false
+            }
+        }
+    }
+}
